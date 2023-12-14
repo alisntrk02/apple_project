@@ -1,3 +1,5 @@
+<h1>Apple Project</h1>
+
 <p>Bu projede HTML,CSS,JS kullanarak geliştirdiğim, ünlü bir telefon markasının sitesini klonlayarak yaptığım projeyi sizlere sunmaktan memnuniyet duyarım.</p>
 
 <p>In this project by using HTML,CSS,JS by cloning a famous phone brand, ı developed this project ı am pleased to present </p>
